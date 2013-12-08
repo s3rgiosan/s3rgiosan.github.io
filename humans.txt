@@ -1,0 +1,12 @@
+/* TEAM */
+Developer: Sergio Santos
+Site: http//s3rgiosan.com
+Twitter: @s3rgiosan
+From: Lisboa, Portugal
+
+
+/* SITE */
+Last update: 2013/11/29
+Standards: HTML5, CSS3
+Components: Jekyll, LESS, Grunt
+Software: Sublime Text 2
