@@ -11,60 +11,66 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <link rel="author" href="/humans.txt" />
+
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Merriweather|Raleway:100'>
     <link rel="stylesheet" href="/css/main.css">
   </head>
   <body role="document">
 
-    <header role="banner">
-      <h1>Sérgio Santos</h1>
-      <h2>Front-End Engineer</h2>
-    </header>
-    
-    <nav role="navigation">
-      <ul class="main-navigation">
-        <li><a title="About me" href="#about" class="main-navigation__about">About</a></li>
-        <li><a title="My work" href="#work" class="main-navigation__work">Work</a></li>
-        <li><a title="Say hello" href="mailto:me@s3rgiosan.com" class="main-navigation__contact">Contact</a></li>
-      </ul>
-    </nav>
+    <div class="wrapper">
 
-    <main id="main" role="main">
+      <header role="banner" class="container">
+        <div class="row">
+          <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+            <img alt="Avatar" src="/images/avatar.png" class="avatar" />
+            <h1>Sérgio Santos</h1>
+            <h2>Front-End Engineer</h2>
+          </div>
+        </div>
+      </header>
+      
+      <main id="main" role="main" class="container">
 
-      <div id="about" class="hcard vcard">
-        <h1>About</h1>
+        <div class="row">
+          <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+            <div id="about" class="hcard vcard">
 
-        <p>Hello, my name is <a class="url fn" rel="me" href="http://s3rgiosan.com">Sérgio Santos</a>. I am a front-end engineer and WordPress developer living in <span class="adr"><span class="locality">Oeiras</span>, <span class="country-name">Portugal</span></span>. I am the co-founder of <a title="Vint3 - Creative and passionate design studio" href="http://vint3.com">Vint3</a>, a small but creative and passionate design studio.</p>
-        <p>Currently I am working as a front-end developer at <a title="BY - Interactive Brands Agency" href="http://bycom.pt/">BY</a>, an interactive brands agency.</p>
-        <p>I am a proactive and creative developer, always pushing myself to learn new skills and enjoy working on personal projects that keep me curious.</p>
-        <p>Always on the lookout for new career opportunities or job inquiries and occasional freelance projects, you can download my <a type="text/directory" href="http://h2vx.com/vcf/s3rgiosan.com/">vcard</a> or email me at <a class="email" title="me@s3rgiosan.com" href="mailto:me@s3rgiosan.com">me@s3rgiosan.com</a>.</p>
+              <p>Hello, my name is <a class="url fn" rel="me" href="http://s3rgiosan.com">Sérgio Santos</a>. I am a front-end engineer and WordPress developer living in <span class="adr"><span class="locality">Oeiras</span>, <span class="country-name">Portugal</span></span>. I am the co-founder of <a title="Vint3 - Creative and passionate design studio" href="http://vint3.com">Vint3</a>, a small but creative and passionate design studio.</p>
+              <p>Currently I am working as a senior front-end developer at <a title="BY - Interactive Brands Agency" href="http://bycom.pt/">BY</a>, an interactive brands agency.</p>
+              <p>I am a proactive and creative developer, always pushing myself to learn new skills and enjoy working on personal projects that keep me curious.</p>
+              <p>Always on the lookout for new career opportunities or job inquiries and occasional freelance projects, you can download my <a type="text/directory" href="http://h2vx.com/vcf/s3rgiosan.com/">vcard</a> or email <a class="email" title="Say hello" href="mailto:me@s3rgiosan.com">me@s3rgiosan.com</a>.</p>
 
-        <ul class="social">
-          <li class="social__icon">
-            <a title="LinkedIn profile" rel="me" href="http://www.linkedin.com/in/s3rgiosan" class="social__icon--linkedin">LinkedIn</a>
-          </li>  
-          <li class="social__icon">
-            <a title="GitHub profile" rel="me" href="https://github.com/s3rgiosan" class="social__icon--github">GitHub</a>
-          </li>
-          <li class="social__icon">
-            <a title="Twitter profile" rel="me" href="https://twitter.com/s3rgiosan" class="social__icon--twitter">Twitter</a>
-          </li>
-          <li class="social__icon">
-            <a title="Google+ profile" rel="me" href="https://plus.google.com/u/0/116019975333991060350/" class="social__icon--googleplus">Google+</a>
-          </li>
-        </ul>
+              <ul class="social">
+                <li class="social__profile">
+                  <a title="Visit my LinkedIn profile" rel="me" href="http://www.linkedin.com/in/s3rgiosan" class="social__profile--linkedin"><span>LinkedIn</span></a>
+                </li>  
+                <li class="social__profile">
+                  <a title="Visit my GitHub profile" rel="me" href="https://github.com/s3rgiosan" class="social__profile--github"><span>GitHub</span></a>
+                </li>
+                <li class="social__profile">
+                  <a title="Visit my Twitter profile" rel="me" href="https://twitter.com/s3rgiosan" class="social__profile--twitter"><span>Twitter</span></a>
+                </li>
+                <li class="social__profile">
+                  <a title="Visit my Google+ profile" rel="me" href="https://plus.google.com/u/0/116019975333991060350/" class="social__profile--googleplus" data-><span>Google+</span></a>
+                </li>
+              </ul>
 
-      </div>
+            </div>
+          </div>
+        </div>
 
-      <div id="work">
-        <h1>Work</h1>
-      </div>
+      </main>
 
-    </main>
+      <footer role="contentinfo" class="container">
+        <div class="row">
+          <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3">
+            <p>All content and media are under <a title="Creative Commons &mdash; Attribution-NonCommercial 4.0 International &mdash; CC BY-NC 4.0" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a>.</p>
+            <small>Proudly hosted by <a title="GitHub • Social coding" href="https://github.com">GitHub</a>.</small>
+          </div>
+        </div>
+      </footer>
 
-    <footer role="contentinfo">
-      <p>All content and media are under <a title="Creative Commons &mdash; Attribution-NonCommercial 4.0 International &mdash; CC BY-NC 4.0" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>.</p>
-      <small>Proudly hosted by <a title="GitHub • Social coding" href="https://github.com">GitHub</a></small>
-    </footer>
+    </div>
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

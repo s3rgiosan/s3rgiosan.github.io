@@ -1,0 +1,80 @@
+#about {
+
+  h1 {
+    text-align: center;
+  }
+
+  .social {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+
+  .social__profile {
+    display: inline-block;
+    margin-left: 10px;
+
+    &:first-child {
+      margin-left: 0;
+    }
+
+    a {
+      border-bottom: 0;
+      
+      &:before {
+        .ionicons;
+        font-size: 1.5em;
+        color: @link-color;
+      }
+    }
+
+    span {
+      .hide-text;
+    }
+
+    .social__profile--linkedin {
+
+      &:before {
+        content: "\f238"; 
+      }
+
+      &:hover:before {
+        color: @linkedin;
+      }
+    }
+
+    .social__profile--github {
+
+      &:before {
+        content: "\f232"; 
+      }
+
+      &:hover:before {
+        color: @github;
+      }
+    }
+
+    .social__profile--twitter {
+
+      &:before {
+        content: "\f242"; 
+      }
+
+      &:hover:before {
+        color: @twitter;
+      }
+    }
+
+    .social__profile--googleplus {
+
+      &:before {
+        content: "\f234"; 
+      }
+
+      &:hover:before {
+        color: @googleplus;
+      }
+    }
+  }
+
+}
