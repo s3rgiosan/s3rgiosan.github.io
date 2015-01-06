@@ -1,5 +1,5 @@
 # s3rgiosan.com [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)    
-> I am a front-end engineer and WordPress developer living in Oeiras, Portugal.  
+> I am a WordPress consultant and front-end engineer living in Oeiras, Portugal.
   
 This site is built using my personal [Grunt development workflow](https://github.com/s3rgiosan/grunt-workflow).  
 For the CSS I'm using LESS with BEM (block, element, identifier) syntax, a front-end naming methodology thought up by the guys at [Yandex](http://yandex.ru/).  
