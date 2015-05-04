@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/s3rgiosan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://s3rgiosan.com
+  * I am s3rgiosan (https://keybase.io/s3rgiosan) on keybase.
+  * I have a public key with fingerprint F40C 4F8E B206 3360 1076  CA70 4FBF D42E 8A1D 167C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f40c4f8eb20633601076ca704fbfd42e8a1d167c",
+            "host": "keybase.io",
+            "key_id": "4fbfd42e8a1d167c",
+            "kid": "01019d8c73062881e736ccf7c91f521fa9cfd1f5884130847b9e9f7fc3642cbd2f060a",
+            "uid": "0ed546508323ec2d656762e2f9403a19",
+            "username": "s3rgiosan"
+        },
+        "service": {
+            "hostname": "s3rgiosan.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1430734294,
+    "expire_in": 157680000,
+    "prev": "5b65fb146637262797def230a3660910cbd1485e9adc77aeec50f4e3fd31c4f7",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIdAnicbZJtSBRBGMdPyzztBUEKeoPaiCAOnd3Zndk9qUwtK4j8oBF0YruzM+dm
+7V53p2Z6aVl9uJJelIokSCrBiqio6IuYvX6QUrTMooQ+VJJQpFmESM1afYnmy8w8
+z+//n3memQczp3hSEzYtmFVccDj2KaGrM7fcU5S/pr9aMByzSvBXC2V0cmKWHaTh
+UNiyo4JfYDIgMlOpIQEEIQIiwIjoGMjMYKYsUVUXTRFhIviEUifiKriNoUdohuXw
+GN+UWCaP/ocvm0xwR1EzVYIhQJKqihRDRAjDRBOZIolM1wgz+VJVZRECVcaGRjWG
+GYFIlohhSgwgoHO78t921FRkpAAVSpASyUQKwkiiEtNkAHVRc8EIDdv6TsrpCAwH
+LSei20LMJ/BwhUWo2wO3lH+RDOLs5OpQ2Ik6xNnBU6XRaCjid6XRqpDLVlKj5I9L
+iWHZJu8kV1TQcMRybMEvcpJELddWlCHAUJY02SfQ3SErTEssl1AwUgEf7jm0glsq
+BlKYIcoIQSwhCWvYpEyCQIcIAU0EvAOirCpU002CsU4pUQCTKWQmFPnDYcGta5ft
+CH7Ir6kH3YqsoK1Hy8NUiN27G5jqSUj1TEtKdP+CJzUl7e8PSSn3ehrM5EDzGbUz
+/d7M4Z8vBztqC8Z2nbS9Vcdzupc+Kb49f3Qsx9m2Nv/tlRe59OCc2iGhLvtV+9SX
+P16MN/q97y7lPNu6vil3u9hnvs7ryTpxPxb/ZvZ035z+ps8YmDhwI/PO50vLxjZ6
+R691Vnbl9ccf13xI1kdWpyUFihdd/6Lo9Q8JyN7cvK8j2553dMPC1y0XMgc+Dswt
+CmS0Bm9tbjjfF+st6105HLj8Hn4tXDm+5nlrPLi83lcNLha2NZWNG1lKaePZFUeW
+1K1r2Xvu8Mi0U8Wpvci+3zx7om30UfrVnqG04cTF3ysyR7yVe2CXMqPm6f5jmwbj
+7fGUvFXq6S2HrNxfZNYqJA==
+=v6pJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/s3rgiosan
+
+==================================================================
